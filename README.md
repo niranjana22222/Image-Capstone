@@ -1,3 +1,3 @@
-# Image-Capstone
+# Image-Capstone-Project
 
 Dhir's Disciples
